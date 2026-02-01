@@ -6,7 +6,7 @@ export default function Footer() {
         backgroundColor :"gray",
         padding: "10px"
     }}>
-        footer
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, ducimus.
     </div>
   )
 }
